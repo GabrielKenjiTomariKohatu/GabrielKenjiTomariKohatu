@@ -11,4 +11,4 @@
   
   ##
 
-  ![Snake animation](https://github.com/GabrielKohatu/GabrielKohatu/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielKenjiTomariKohatu/GabrielKenjiTomariKohatu/blob/output/github-contribution-grid-snake.svg)
