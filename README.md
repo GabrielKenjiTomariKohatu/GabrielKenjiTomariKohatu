@@ -24,6 +24,15 @@ const obj_user = {
 };
 ```
 
+## Github Stats ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<div align="center" style="display: inline_block; justify-content:center">
+
+![GabrielKenjiTomariKohatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKenjiTomariKohatu&show_icons=true&theme=dark&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKenjiTomariKohatu&hide_progress=false&layout=compact&theme=dark)
+
+</div>
+<br>
+
 ## Languages e Tools 📚
 
 <div style="display: flex; justify-content: space-between; align-items: center; height: 100%;">
@@ -117,13 +126,6 @@ const obj_user = {
 
 </div>
 
-## Github Stats ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<div align="center" style="display: inline_block; justify-content:center">
-
-![GabrielKenjiTomariKohatu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKenjiTomariKohatu&show_icons=true&theme=dark&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKenjiTomariKohatu&hide_progress=false&layout=compact&theme=dark)
-
-</div>
 <br>
 
 ## Social Media
