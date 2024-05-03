@@ -120,7 +120,7 @@ const obj_user = {
     </div>
     <div style="flex-shrink: 0; margin-left: 20px;max-width: 100%;">
 
-[![GabrielKenjiTomariKohatu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GabrielKT)](https://github.com/GabrielKenjiTomariKohatu/github-readme-stats)
+[![GabrielKenjiTomariKohatu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GabrielKT&layout=compact)](https://github.com/GabrielKenjiTomariKohatu/github-readme-stats)
 
 </div>
 
