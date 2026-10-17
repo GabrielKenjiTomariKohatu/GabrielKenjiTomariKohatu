@@ -33,7 +33,7 @@ const obj_user = {
 
 ![GabrielKenjiTomariKohatu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GabrielKenjiTomariKohatu&theme=dark)
 
-#### (2024) - stats:
+#### Stats:
 [![GabrielKenjiTomariKohatu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GabrielKT&layout=compact)](https://github.com/GabrielKenjiTomariKohatu/github-readme-stats)
 </div>
 <br>
